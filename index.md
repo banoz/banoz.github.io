@@ -11,8 +11,7 @@ title: "Hi! I'm Vas. Thanks for stopping by."
 
   .site-header,
   .site-footer {
-    background-color: #0a0a0a;
-    border-color: #003b0f;
+    display: none;
   }
 
   .site-header .site-title,
