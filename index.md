@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Hi! I'm Vas. Thanks for stopping by."
 ---
 
@@ -116,19 +116,23 @@ title: "Hi! I'm Vas. Thanks for stopping by."
 
 <p class="terminal-section-label">// Coffee related</p>
 
-- [CoffeeHat](https://github.com/banoz/CoffeeHat)
-- [PSM](https://github.com/banoz/PSM)
-- [PSM C library](https://github.com/banoz/PSM.Library)
-- [Custom firmware for CRM3007L](https://github.com/banoz/CRM3007L.FW)
-- [Sirena](https://github.com/banoz/Sirena)
-- [Tray scales for Gaggia Classic](https://github.com/banoz/TrayScales)
-- [Adding Bluetooth to XJK1310 scales](https://github.com/banoz/XJK1310-BT)
+<ul>
+  <li><a href="https://github.com/banoz/CoffeeHat">CoffeeHat</a></li>
+  <li><a href="https://github.com/banoz/PSM">PSM</a></li>
+  <li><a href="https://github.com/banoz/PSM.Library">PSM C library</a></li>
+  <li><a href="https://github.com/banoz/CRM3007L.FW">Custom firmware for CRM3007L</a></li>
+  <li><a href="https://github.com/banoz/Sirena">Sirena</a></li>
+  <li><a href="https://github.com/banoz/TrayScales">Tray scales for Gaggia Classic</a></li>
+  <li><a href="https://github.com/banoz/XJK1310-BT">Adding Bluetooth to XJK1310 scales</a></li>
+</ul>
 
 <hr class="terminal-divider">
 
 <p class="terminal-section-label">// nut (Network UPS Tools) on ESP32-S3</p>
 
-- [nut](https://github.com/banoz/nut)
+<ul>
+  <li><a href="https://github.com/banoz/nut">nut</a></li>
+</ul>
 
 </div>
 
