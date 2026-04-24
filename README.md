@@ -18,4 +18,3 @@ Coffee related:
 nut (Network UPS Tools) on ESP32-S3:
 
 - [nut](https://github.com/banoz/nut)
-
