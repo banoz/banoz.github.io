@@ -1,4 +1,7 @@
-# Hi! I'm Vas. Thanks for stopping by.
+---
+layout: page
+title: "Hi! I'm Vas. Thanks for stopping by."
+---
 
 ## Here's some repos to check out:
 
